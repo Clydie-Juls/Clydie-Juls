@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programming gif" width="100%">
 <h3 align="center">A passionate fullstack-developer</h3>
 
-- 🌱 I’m currently learning **Next Js, Project Architecture**
+- 🌱 I’m currently learning **Microservices, Go Programming, CI/CD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
